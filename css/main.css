@@ -1,0 +1,13 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'AdobeArabic';
+  src: url("../fonts/AdobeArabic-Regular.ttf") format("truetype")
+}
+@font-face {
+  font-family: 'BMitra';
+  src: url("../fonts/BMitraBold.ttf.ttf") format("truetype")
+}
+@font-face {
+  font-family: 'BKoodakBold';
+  src: url("../fonts/BKoodakBold.eot?#") format("eot"), url("../fonts/BKoodakBold.woff") format("woff"), url("../fonts/BKoodakBold.ttf") format("truetype")
+}
